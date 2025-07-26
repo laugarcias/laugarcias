@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
+
 # Olá, Mundo, eu sou a Laura🌷
 
 🌌 **Bem-vindo(a) ao meu universo no GitHub!**  
@@ -29,3 +31,4 @@ Aqui você vai encontrar automações, dashboards e algumas loucuras com dados.
 
 [![Gmail](https://img.shields.io/badge/Gmail-barretolaura775@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barretolaura775@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura_Garcias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-garcias-394a7b207)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
