@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
-
 # Olá, Mundo, eu sou a Laura🌷
 
 🌌 **Bem-vindo(a) ao meu universo no GitHub!**  
