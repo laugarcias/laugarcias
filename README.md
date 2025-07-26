@@ -1,4 +1,4 @@
-# Hello, World, eu sou a Laura🌷
+# Olá, Mundo, eu sou a Laura🌷
 
 🌌 **Bem-vindo(a) ao meu universo no GitHub!**  
 Aqui você vai encontrar automações, dashboards e algumas loucuras com dados.
