@@ -15,7 +15,7 @@ Aqui você vai encontrar automações, dashboards e algumas loucuras com dados.
 
 ---
 
-## 🚀 No que estou trabalhando
+## 🚀 Trabalhando
 
 
 💻  Automatizar tarefas manuais e processos operacionais  
